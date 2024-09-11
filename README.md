@@ -11,7 +11,7 @@ Calculate Maximun allowble tension foward direction and reversed as well as lubi
 
 You can open this notebook in Google Colab directly.
 
-Set Up
+Set Up:
 
 Once the notebook is open:
 Ensure that the necessary libraries are installed by running the first code block (dependencies installation). All the required Python packages should automatically be installed.
